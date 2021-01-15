@@ -1,6 +1,6 @@
-! Version:	202101151214					
+! Version:	202101151407					
 ! Title:	MJ Blacklist					
-! Last modified:	"Friday, 15 January 2021"	12:14				
+! Last modified:	"Friday, 15 January 2021"	14:07				
 ! Expires:	3 days (update frequency)					
 ! Homepage:	https://github.com/UnbreakableMJ/Blacklist					
 ! License:	https://github.com/UnbreakableMJ/Blacklist/blob/main/LICENSE					
@@ -19,6 +19,26 @@
 ! You should have received a copy of the GNU General Public License 						
 ! along with this program.  If not; see <https://www.gnu.org/licenses/>.						
 ! 						
+||51.68.161.17^						
+||659f7811510c2a2b265a09a56095c702.fwbntw.com^						
+||8gzijqo4c85j.com^						
+||acdcdn.com^						
+||admitad.com^						
+||adplxmd.com^						
+||ad-score.com^						
+||adsupplyads.net^						
+||adtng.com^						
+||adultonlineplay.com^						
+||advnet.xyz^						
+||affiliate.iqbroker.com^						
+||af-int.net^						
+||alxsite.com^						
+||amazing-dating.com^						
+||amh.hubxt.com^						
+||areantaid.site^						
+||artisany.net^						
+||aslnk.link^						
+||atinterboa.space^						
 ||atrafficreseller.com^						
 ||aud3g.com^						
 ||audio-and-video-app.site^						
@@ -186,14 +206,6 @@
 ||xxlargepop.com^						
 ||yesadsrv.com^						
 ||yoursplace.net^						
-						
-						
-						
-						
-						
-						
-						
-						
 						
 						
 						
