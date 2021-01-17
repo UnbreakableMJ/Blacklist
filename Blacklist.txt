@@ -1,6 +1,6 @@
-! Version:	202101151407					
+! Version:	202101170848					
 ! Title:	MJ Blacklist					
-! Last modified:	"Friday, 15 January 2021"	14:07				
+! Last modified:	"Sunday, 17 January 2021"	08:48				
 ! Expires:	3 days (update frequency)					
 ! Homepage:	https://github.com/UnbreakableMJ/Blacklist					
 ! License:	https://github.com/UnbreakableMJ/Blacklist/blob/main/LICENSE					
@@ -67,6 +67,7 @@
 ||cretgate.com^						
 ||crypto-browsing.com^						
 ||crypto-news-channel.com^						
+||ctrlaltdel99.com^						
 ||cuntwars.com^						
 ||Customsearch.info^						
 ||decorous.download^						
@@ -180,6 +181,7 @@
 ||ta3alamaltadawul.com^						
 ||tabathaherman.pro^						
 ||temptedcreationnovel.com^						
+||tfzznclztl.com^						
 ||themillionaireinpjs.com^						
 ||theonecdn.com^						
 ||thepornstudy.com^						
@@ -198,6 +200,7 @@
 ||verajohn.com^						
 ||vgb6t54g.icu^						
 ||viifax.com^						
+||vip-flirt-books12.com^						
 ||watchmygirlfriend.tv^						
 ||weaveradrenaline.com^						
 ||wp.ournewstoday.com^						
@@ -206,13 +209,4 @@
 ||xxlargepop.com^						
 ||yesadsrv.com^						
 ||yoursplace.net^						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
+||zunsoach.com^
