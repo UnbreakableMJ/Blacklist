@@ -1,6 +1,6 @@
-! Version:	202106231018	
+! Version:	202107132127	
 ! Title:	MJ Blacklist	
-! Last modified:	Wednesday, 23 June 2021	10:18
+! Last modified:	Tuesday, 13 July 2021	21:27
 ! Expires:	3 days (update frequency)	
 ! Homepage:	https://github.com/UnbreakableMJ/Blacklist	
 ! License:	https://github.com/UnbreakableMJ/Blacklist/blob/main/LICENSE	
@@ -213,3 +213,4 @@
 ||yoursplace.net^
 ||zunsoach.com^
 ||protocolgroupgroups.com^
+||widow5blackfr.com^
