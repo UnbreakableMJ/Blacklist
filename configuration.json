@@ -9,11 +9,6 @@
 	"source": "StopPr0n - NoFap-domains.csv",
 	"type": "hosts",
       },
-      {
-	  "name": "Remote rules",
-	  "source": "https://github.com/UnbreakableMJ/Blacklist/raw/main/StopPr0n.txt",
-	  "type": "adblock",
-      }
     ],
     "transformations": ["Deduplicate", "Compress"],
 }
