@@ -21,6 +21,7 @@
 {
     "name": "Blacklist",
     "description": "Manually compiled AdGuard compatible list of domains serving ads and such, which escaped the main filters used",
+    "license": "GPLv3",
     "sources": [
     {
 	"source": "Blacklist.txt",
@@ -31,6 +32,7 @@
 {
     "name": "TempExceptions",
     "description": "Manually compiled white list of domains having trouble with other filters used",
+    "license": "GPLv3",
     "sources": [
     {
       "source": "TempExceptions.txt",
