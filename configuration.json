@@ -1,0 +1,40 @@
+{
+    "name": "StopPr0n",
+    "description": "Blocked sites for pornography",
+    "homepage": "https://s3cure.us",
+    "license": "",
+    "sources": [
+      {
+	"name": "Local rules",
+	"source": "StopPr0n - NoFap-domains.csv",
+	"type": "hosts",
+      },
+      {
+	  "name": "Remote rules",
+	  "source": "https://github.com/UnbreakableMJ/Blacklist/raw/main/StopPr0n.txt",
+	  "type": "adblock",
+      }
+    ],
+    "transformations": ["Deduplicate", "Compress"],
+}
+
+{
+    "name": "Blacklist",
+    "description": "Manually compiled AdGuard compatible list of domains serving ads and such, which escaped the main filters used",
+    "sources": [
+    {
+	"source": "Blacklist.txt",
+	"type": "adblock",
+    }
+  ]
+}
+{
+    "name": "TempExceptions",
+    "description": "Manually compiled white list of domains having trouble with other filters used",
+    "sources": [
+    {
+      "source": "TempExceptions.txt",
+	"type": "adblock",
+    }
+  ]
+}
