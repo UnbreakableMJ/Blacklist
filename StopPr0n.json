@@ -1,0 +1,14 @@
+{
+    "name": "StopPr0n",
+    "description": "Blocked sites for pornography",
+    "homepage": "https://s3cure.us",
+    "license": "",
+    "sources": [
+      {
+	"name": "Local rules",
+	"source": "StopPr0n-NoFap.csv",
+	"type": "hosts"
+      }
+    ],
+    "transformations": ["Deduplicate", "Compress", "RemoveModifiers", "TrimLines", "RemoveEmptyLines"]
+}

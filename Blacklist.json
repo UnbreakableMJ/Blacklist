@@ -1,0 +1,11 @@
+{
+    "name": "Blacklist",
+    "description": "Manually compiled AdGuard compatible list of domains serving ads and such, which escaped the main filters used",
+    "license": "GPLv3",
+    "sources": [
+    {
+	"source": "Blacklist.txt",
+	"type": "adblock",
+    }
+  ]
+}

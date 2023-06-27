@@ -1,0 +1,11 @@
+{
+    "name": "TempExceptions",
+    "description": "Manually compiled white list of domains having trouble with other filters used",
+    "license": "GPLv3",
+    "sources": [
+    {
+      "source": "TempExceptions.txt",
+	"type": "adblock",
+    }
+  ]
+}

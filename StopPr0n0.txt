@@ -1,14 +1,8 @@
 !
-! Title: StopPr0n
-! Description: Blocked sites for pornography
-! Homepage: https://s3cure.us
-! Last modified: 2023-06-27T06:42:25.094Z
+! Title: Blocklist
+! Last modified: 2023-06-09T15:08:33.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
-!
-!
-! Source name: Local rules
-! Source: StopPr0n-NoFap.csv
 !
 ||007angels.com^
 ||007milf.com^
@@ -327,7 +321,6 @@
 ||7virgin.com^
 ||7x3.net^
 ||80s-vintage-porn.com^
-||85.17.187.83^
 ||85porn.net^
 ||85tube.com^
 ||88cum.com^
@@ -5177,7 +5170,6 @@ collectionofbestporn
 ||forcedcinema.net^
 ||forcedporn.org^
 ||foreqew.angelfire.com^
-forgotten_dark_angel.tripod.com
 ||forgotten-angels.de^
 ||forhertube.com^
 ||forthegirls.com^
@@ -6171,7 +6163,6 @@ forgotten_dark_angel.tripod.com
 ||go.xxxjmp.com^
 ||go2amateur.com^
 ||go2matures.com^
-||gob.mx^
 ||gobdsm.com^
 ||gobeurettes.com^
 ||goblackporn.com^
@@ -6679,7 +6670,6 @@ forgotten_dark_angel.tripod.com
 ||hdgay.net^
 ||hdgayporn.net^
 ||hdgaytube.xxx^
-hdgaytube.xxx!
 ||hdgirlstock.com^
 ||hdgrannytube.com^
 ||hdhole.com^
@@ -10844,7 +10834,6 @@ hdgaytube.xxx!
 ||nackteporn.com^
 ||nadiavirgin.com^
 ||nadiavirgin.net^
-nadine-j.de novinhas-brasil.blogspot.com
 ||nagyi-szex.com^
 ||nahoragay.blogspot.com^
 ||naijaporntube.com^
@@ -16350,7 +16339,6 @@ nadine-j.de novinhas-brasil.blogspot.com
 ||toplist18.com^
 ||toplistmega.com^
 ||toplistwebcams.com^
-topmodel_virginie.cmonbook.com
 ||topmomvideos.com^
 ||topmonsterhentai.com^
 ||topnotchwebcams.com^
@@ -21094,7 +21082,6 @@ topmodel_virginie.cmonbook.com
 ||xvicious.com^
 ||xxindianporn.com^
 ||xxvideos.xxx^
-xxx
 ||xxx-art.biz^
 ||xxx-pornvideos.com^
 ||xxx9.com^
