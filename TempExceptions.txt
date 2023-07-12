@@ -1,0 +1,25 @@
+!
+! Title: TempExceptions
+! Description: https://github.com/UnbreakableMJ/Blacklist
+! License: GPLv3
+! Last modified: 2023-07-12T20:08:00.235Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source: TempExceptions.csv
+!
+@@||bahrain.bh^$important						
+@@||services.bahrain.bh^$important						
+@@||ithmaarbank.com^$important						
+@@||linkifier.com^$important
+@@||ekey.bh^$important
+@@||oxfordenglishtesting.com^$important
+@@||oup.com^$important
+@@||adguard.com^$important
+@@||gstatic.com^$important
+@@||google-analytics.com^$important
+@@||googletagmanager.com^$important
+@@||googleapis.com^$important
+@@||googlesyndication.com^$important
+@@||googleadservices.com^$important
