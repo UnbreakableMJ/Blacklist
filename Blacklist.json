@@ -1,11 +1,12 @@
 {
-    "name": "Blacklist",
-    "description": "Manually compiled AdGuard compatible list of domains serving ads and such, which escaped the main filters used",
+    "name": "MJ Blacklist",
+    "description": "Blocked sites that are missing from popular filters",
+    "homepage": "https://s3cure.us",
     "license": "GPLv3",
     "sources": [
-    {
-	"source": "Blacklist.txt",
-	"type": "adblock",
-    }
-  ]
+      {
+	"source": "Blacklist.csv",
+	"type": "adblock"
+      }
+    ]
 }
