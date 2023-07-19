@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are malicious
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-07-17T20:24:29.522Z
+! Last modified: 2023-07-19T07:44:05.958Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
