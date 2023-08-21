@@ -1,0 +1,12 @@
+!
+! Title: MJ Malicious sites to block
+! Description: Blocked sites that are malicious
+! Homepage: https://s3cure.us
+! License: GPLv3
+! Last modified: 2023-08-21T20:37:26.167Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.22
+!
+!
+! Source: Malicious.csv
+!
