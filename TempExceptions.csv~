@@ -14,6 +14,8 @@
 @@||googleadservices.com^$important
 @@||docs.aws.amazon.com^$important
 @@||dpm.demdex.net^$domain=docs.aws.amazon.com
+@@||oxfordenglishtesting.com^$important
+@@||oup.com^$important
 @@||oxfordonlinepractice.com^$important
 @@||family.adguard-dn.com^$important
 @@||s3cure.me^$important
@@ -24,6 +26,3 @@
 @@||noip.com^$important
 @@||no-ip.com^$important
 @@||almuheet.com^$important
-@@||blooket.com^$important
-@@||baamboozle.com^$important
-@@||quizizz.com^$important
