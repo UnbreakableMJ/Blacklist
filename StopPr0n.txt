@@ -3,7 +3,7 @@
 ! Description: Blocked sites for pornography
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-08-25T19:51:13.578Z
+! Last modified: 2023-08-25T20:14:58.854Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -23426,3 +23426,6 @@ javhdporn.net
 osakaschoolgirls.com
 unionfilesexchnges.su
 xkorean.com
+xxxvideo.link
+xvideos3.com
+karup.com

@@ -8,5 +8,6 @@
 	"source": "Malicious.csv",
 	"type": "adblock"
       }
-    ]
+    ],
+	"transformations": ["RemoveComments"]
 }

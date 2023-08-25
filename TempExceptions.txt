@@ -2,7 +2,7 @@
 ! Title: TempExceptions
 ! Description: https://github.com/UnbreakableMJ/Blacklist
 ! License: GPLv3
-! Last modified: 2023-08-25T19:51:12.058Z
+! Last modified: 2023-08-25T20:14:57.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -25,16 +25,4 @@
 @@||googleadservices.com^$important
 @@||docs.aws.amazon.com^$important
 @@||dpm.demdex.net^$domain=docs.aws.amazon.com
-@@||oxfordonlinepractice.com^$important
-@@||family.adguard-dn.com^$important
-@@||s3cure.me^$important
-@@||add0n.com^$important
-@@||cloudflare.com^$importantt
-@@||google.com^$important
-@@||500apps.org^$important
-@@||noip.com^$important
-@@||no-ip.com^$important
-@@||almuheet.com^$important
 @@||blooket.com^$important
-@@||baamboozle.com^$important
-@@||quizizz.com^$important

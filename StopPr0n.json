@@ -8,6 +8,5 @@
 	"source": "StopPr0n-NoFap.csv",
 	"type": "hosts"
       }
-    ],
-	"transformations": ["Deduplicate"]
+    ]
 }
