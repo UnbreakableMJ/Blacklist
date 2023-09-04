@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are missing from popular filters
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-08-30T19:51:02.615Z
+! Last modified: 2023-09-04T05:54:45.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -224,3 +224,5 @@
 ||yoursplace.net^
 ||zunsoach.com^
 ||owrkwilxbw.com^
+||onlinado.work^
+||qrlsx.com^
