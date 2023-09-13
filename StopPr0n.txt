@@ -3,7 +3,7 @@
 ! Description: Blocked sites for pornography
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-09-04T05:55:22.904Z
+! Last modified: 2023-09-13T12:26:46.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -23488,3 +23488,4 @@ www.youporn.com
 xhamster.com
 xmoviesforyou.com
 xxxtik.com
+ixxx.onl
