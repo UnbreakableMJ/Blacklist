@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are missing from popular filters
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-09-13T12:26:49.723Z
+! Last modified: 2023-09-29T12:19:24.690Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -226,3 +226,5 @@
 ||owrkwilxbw.com^
 ||onlinado.work^
 ||qrlsx.com^
+||scioesl.com^
+||correos.care^
