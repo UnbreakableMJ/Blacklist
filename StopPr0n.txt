@@ -3,7 +3,7 @@
 ! Description: Blocked sites for pornography
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-10-09T13:06:32.777Z
+! Last modified: 2023-10-10T04:19:45.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
