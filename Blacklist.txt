@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are missing from popular filters
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-10-10T04:19:50.004Z
+! Last modified: 2023-10-16T04:51:55.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -230,3 +230,4 @@
 ||correos.care^
 ||rapheadel.live^
 ||grayspydata.live^
+||activemyaccnt.com^
