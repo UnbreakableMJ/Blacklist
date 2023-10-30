@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are missing from popular filters
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-10-21T03:08:08.362Z
+! Last modified: 2023-10-30T13:27:08.585Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -244,3 +244,9 @@
 ||17dcf87.ixg.llc^
 ||c3adb66.ixg.llc^
 ||3vy0ob3r.forster087.one^
+||bhdrahman.cyou^
+||goosebomb.com^
+||systeme-business.online^
+||pixelsee.app^
+||g2afse.com^
+||ptrackings.com^
