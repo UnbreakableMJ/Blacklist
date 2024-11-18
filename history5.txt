@@ -1,0 +1,500 @@
+    9  paru -S gitahead
+   10  pacman -Ss gitk
+   11  paru -S guitar
+   12  mg ~/.gitconfig
+   13  ls
+   14  cd
+   15  guitar --help
+   16  guitar
+   17  cd ~/doas/doas
+   18  moar PKGBUILD 
+   19  ls
+   20  cp ~/doas3/PKGBUILD .
+   21  cp ~/doas3/doas.install .
+   22  makepkg --printsrcinfo > .SRCINFO
+   23  cd
+   24  paru -S doas
+   25  paru -S aur/doas
+   26  mg ~/.gitconfig
+   27  paru -S aur/doas
+   28  sudo mg /etc/doas.conf
+   29  mkdir bin
+   30  mv rustbuild.sh ~/bin
+   31  mg ~/.bashrc
+   32  mg ~/.bashrc
+   33  chmod +x ~/bin/rustbuild.sh 
+   34  chmod +x ~/bin/rustbuild.sh 
+   35  cargo install wezterm
+   36  paru -S neovim-dropin
+   37  paru -S neovim-drop-in
+   38  doas pacman -R vim
+   39  paru -S neovim-drop-in
+   40  vi
+   41  vim
+   42  pacman -Ss emacs 
+   43  pacman -Ss zile
+   44  paru -S zile
+   45  paru -S emacs30-nativecomp
+   46  paru -S emacs29-nativecomp
+   47  mg /etc/makepkg.conf
+   48  sudo mg /etc/makepkg.conf
+   49  paru -S zile
+   50  sudo mg /etc/makepkg.conf
+   51  zile
+   52  zile
+   53  doas ls /
+   54  doas pacman -Syu
+   55  doas pacman -R nerd-fonts
+   56  sudo mg /etc/doas.conf
+   57  sudo mg /usr/local/doas.conf
+   58  paru -S aur/doas
+   59  sudo mg /etc/doas.conf
+   60  doas pacman -R nerd-fonts
+   61  doas pacman -Sy nerd-fonts
+   62  doas rm /usr/share/fonts/TTF/*nerd*
+   63  doas rm /usr/share/fonts/TTF/*Nerd*
+   64  doas rm -r /usr/share/licenses/ttf-go-nerd ; doas rm -r /usr/share/licenses/ttf-firacode-nerd
+   65  doas rm -r /usr/share/licenses/ttf*nerd*
+   66  doas pacman -R nerd-fonts
+   67  doas pacman -Sy nerd-fonts
+   68  doas ls /
+   69  doas pacman -Syu
+   70  pacman -Ss btrfs
+   71  doas pacman -Sy grub-btrfs grub-btrfs-support
+   72  doas pacman -Syu
+   73  mg ~/.wezterm.lua
+   74  pacman -Ss nativecomp
+   75  btm
+   76  vi
+   77  emacs
+   78  mg
+   79  echo $EDITOR
+   80  mg ~/.bashrc
+   81  mg ~/.bashrc
+   82  ls ~/.bashrc
+   83  mg ~/.bashrc
+   84  doas --help
+   85  man doas
+   86  ls
+   87  mount
+   88  doas os-prober 
+   89  doas mg /etc/default/grub
+   90  doas grub-install /dev/sda
+   91  pacman -Ss uutils
+   92  paru -S coreutils-hybrid
+   93  pacman -Ss nushell
+   94  Ss starship
+   95  Ss wezterm
+   96  Ss pipr
+   97  Ss bat
+   98  doas pacman -Sy nushell
+   99  cargo install pipr
+  100  emacs
+  101  pacman -Ss emacs | more
+  102  doas pacman -R emacs-wayland
+  103  paru -S aur/emacs28-nativecomp
+  104  emacs
+  105  paru -S pipr-git
+  106  Ss tealdeer
+  107  doas pacman -Sy opendoas
+  108  doas --help
+  109  man doas
+  110  paru -S doas
+  111  paru -S aur/doas
+  112  doas --help
+  113  man doas
+  114  sudo mg /etc/doas.conf
+  115  man doasedit
+  116  mg ~/.bashrc
+  117  cargo install rootasrole
+  118  sr ls /
+  119  sr --help
+  120  sr ls /
+  121  cargo remove rootasrole
+  122  cargo uninstall rootasrole
+  123  git clone https://github.com/LeChatP/RootAsRole ; cd RootAsRole ; cargo xtask install -bip sudo
+  124  cd
+  125  paru -S aur/doas
+  126  man paru
+  127  paru -Sc aur/doas
+  128  paru -S aur/doas
+  129  cd doas
+  130  ls
+  131  mg PKGBUILD 
+  132  mg PKGBUILD 
+  133  makepkg -si
+  134  ls
+  135  rm -r src src PKGBUILD~
+  136  ls
+  137  rm -r pkg
+  138  ls doas/
+  139  rm doas*.zst doas*.gz
+  140  cd
+  141  Ss zoxide
+  142  sudoedit /etc/doas.conf
+  143  doas pacman -Sy zoxide
+  144  Ss broot
+  145  Ss Ss difftastic
+  146  paru -Ss difftastic
+  147  Ss difftastic
+  148  Ss dust
+  149  Ss dua-cli
+  150  Ss fd-find
+  151  Ss find | more
+  152  Ss exa
+  153  doas pacman -Sy exa-git dua-cli dust difftastic broot zoxide
+  154  doas pacman -Sy dua-cli dust difftastic broot
+  155  Ss macchina
+  156  Ss ouch
+  157  Ss procs
+  158  Ss rm-improved
+  159  paru -Ss rm-improved
+  160  paru -S rm-improved
+  161  doas pacman -S macchina ouch procs
+  162  Ss sd
+  163  Ss topgrade
+  164  paru -Ss uutils
+  165  Ss findutils
+  166  paru -Ss findutils
+  167  doas pacman -S topgrade
+  168  Ss tokei
+  169  Ss ruget
+  170  paru -Ss ruget
+  171  doas pacman -S tokei
+  172  paru -S ruget
+  173  sudo pacman -Syu
+  174  rnano 
+  175  mg ~/.bashrc
+  176  mg ~/.bashrc
+  177  emacs
+  178  Ss emacs 
+  179  sudo pacman -Sy emacs-wayland
+  180  btm
+  181  mount
+  182  df -h
+  183  doas pacman -Syu
+  184  pacman -Ss partition
+  185  doas pacman -S partitionmanager
+  186  mount
+  187  cd /run/media/mj/695b173b-314a-4717-acec-a1f8793accac/
+  188  ls
+  189  cd @
+  190  ls
+  191  cd boot
+  192  ls
+  193  cd grub
+  194  ls
+  195  more grub.cfg 
+  196  doas moar grub.cfg
+  197  mg ~/.bashrc
+  198  cd ..
+  199  cd ..
+  200  ls
+  201  cd ..
+  202  ls
+  203  ls -la
+  204  doasedit /etc/grub.d/40_custom 
+  205  doas moar /run/media/mj/695b173b-314a-4717-acec-a1f8793accac/@/boot/grub/grub.cfg 
+  206  doas more /run/media/mj/695b173b-314a-4717-acec-a1f8793accac/@/boot/grub/grub.cfg 
+  207  doasedit /etc/grub.d/40_custom 
+  208  doas more /run/media/mj/695b173b-314a-4717-acec-a1f8793accac/@/boot/grub/grub.cfg 
+  209  doasedit /etc/grub.d/40_custom 
+  210  man grub-mkconfig 
+  211  info grub-mkconfig
+  212  doas grub-install /dev/sda
+  213  doas update-grub ; doas grub-install /dev/sda
+  214  doas grub-mkconfig -o /boot/grub/grub.cfg ; doas update-grub ; doas grub-install /dev/sda
+  215  top
+  216  emacs ~/.bashrc
+  217  doas pacman -Syu
+  218  doas pacman -S emacs-wayland
+  219  doas pacman -Syu
+  220  btop
+  221  man btop
+  222  emacs
+  223  Ss adobe-source-code-pro-fonts
+  224  cd doas
+  225  ls
+  226  mg PKGBUILD 
+  227  exa ~/Downloads/*.torrent
+  228  cd
+  229  mv doas doas4
+  230  cd doas
+  231  ls
+  232  mg PKGBUILD 
+  233  ls
+  234  ls -la
+  235  rm PKGBUILD~
+  236  mg PKGBUILD ; rm PKGBUILD~
+  237  makepkg --printsrcinfo > .SRCINFO
+  238  ls -la
+  239  paru -S doas
+  240  doas pacman -R doas; paru -S aur/doas
+  241  cd; sudo pacman -R doas; sudo pacman -Syu; paru -S aur/doas
+  242  paru -Syu
+  243  cd; sudo pacman -R doas; sudo pacman -Syu; paru -S aur/doas
+  244  doas ls /
+  245  sudoedit /etc/doas.conf
+  246  doas ls /
+  247  alacritty migrate
+  248  moar ~/.wezterm.lua 
+  249  cp /run/media/mj/Ventoy/apps+pkgs/.bashrc.d/* ~/.bashrc.d/
+  250  echo $XDG+CONFIG_HOME
+  251  echo $XDG_CONFIG_HOME
+  252  emacs ~/.config/alacritty/alacritty.toml 
+  253  mkdir -p ~/.config/alacritty/themes; git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+  254  emacs ~/.config/alacritty/alacritty.toml 
+  255  ls
+  256  ls -la
+  257  emacs ~/.config/alacritty/alacritty.toml 
+  258  emacs ~/.config/alacritty/alacritty.toml 
+  259  exit
+  260  btm
+  261  btop
+  262  emacs ~/.config/alacritty/alacritty.toml 
+  263  ls ~/.config/alacritty/themes/themes/bluish.toml 
+  264  moar ~/.config/alacritty/themes/themes/bluish.toml 
+  265  emacs ~/.config/alacritty/alacritty.toml 
+  266  alacritty migrate
+  267  ls
+  268  top
+  269  emacs ~/.config/alacritty/alacritty.toml 
+  270  exit
+  271  ls ~/.config/alacritty/themes/
+  272  cd ~/.config/alacritty/themes/
+  273  ls -la
+  274  ./print_colors.sh
+  275  emacs ~/.config/alacritty/alacritty.toml 
+  276  ~/.config/alacritty/themes/print_colors.sh 
+  277  alacritty migrate
+  278  ~/.config/alacritty/themes/print_colors.sh 
+  279  alacritty migrate
+  280  emacsclient ~/.config/alacritty/alacritty.toml ~/.config/alacritty/themes/iTerm2-Color-Schemes/Blue\ Matrix.toml 
+  281  emacsclient ~/.config/alacritty/alacritty.toml ~/.config/alacritty/themes/iTerm2-Color-Schemes/Blue\ Matrix.toml 
+  282  emacsclient ~/.config/alacritty/alacritty.toml
+  283  alacritty migrate
+  284  cd ~/.config/alacritty/themes/
+  285  ls
+  286  ./print_colors.sh 
+  287  cd ..
+  288  ls
+  289  cp alacritty.toml ~/
+  290  mv ~/alacritty.toml ~/alacritty.toml.bk
+  291  cd
+  292  EDITOR=emacs systemctl --user edit emacs.service --drop-in=10-after-gfx
+  293  systemctl --user enable --now emacs
+  294   systemctl --user restart emacs
+  295  emacsclient ~/.bashrc
+  296  emacsclient
+  297  emacsclient ~/.bashrc
+  298  emacsclient ~/.bashrc
+  299  git clone https://github.com/mbadolato/iTerm2-Color-Schemes.git
+  300  moar ~/iTerm2-Color-Schemes/alacritty/Blue\ Matrix.toml 
+  301  cp -r ~/iTerm2-Color-Schemes/alacritty ~/.config/alacritty/themes/
+  302  cd ~/.config/alacritty/themes/
+  303  mv alacritty iTerm2-Color-Schemes
+  304  cd ~/.config/alacritty/
+  305  ls
+  306  rm alacritty.toml~
+  307  cp alacritty.toml ~/alacritty.toml.bk 
+  308  cd
+  309  cp .wezterm.lua ~/wezterm.lua.bk
+  310  cp .wezterm.lua /run/media/mj/Ventoy/apps+pkgs/
+  311  cp ~/.config/alacritty/alacritty.toml /run/media/mj/Ventoy/apps+pkgs/
+  312  paru -Syu
+  313  paru -R google-chrome-wayland-vulkan ; paru -Sy google-chrome
+  314  paru -Syu
+  315  moar /etc/pacman.d/mirrorlist
+  316  top
+  317  top
+  318  htop
+  319  htop
+  320  btop
+  321  cp ~/Pictures/Screenshots/Screenshot_20241* /run/media/mj/Ventoy/apps+pkgs/Screenshots/Cachy/
+  322  pacman -Ss defender
+  323  pacman -Qet
+  324  pacman -Qe
+  325  pacman -Qe > pkgs.txt
+  326  top
+  327  paru -Syu
+  328  pacman -Ss cosmic
+  329  sudo nano /etc/pacman.conf
+  330  > /lib/ld-linux-x86-64.so.2 --help | grep supported
+  331  sudo /lib/ld-linux-x86-64.so.2 --help | sudo grep supported
+  332  paru -S alhp-keyring alhp-mirrorlist
+  333  exa /etc/pacman.d/
+  334  exa /etc/pacman.d/alhp-mirrorlist
+  335  sudoedit /etc/pacman.d/alhp-mirrorlist
+  336  sudoedit /etc/pacman.conf
+  337  sudoedit /etc/pacman.conf
+  338  pacman -Ss cachyos-benchmarker
+  339  pacman -S cachyos-benchmarker
+  340  sudo pacman -S cachyos-benchmarker
+  341  sudo pacman -Suy
+  342  sudo pacman -S cachyos-benchmarker
+  343  mg ~/.bashrc
+  344  emacsclient 
+  345  systemctl --user enable --now emacs
+  346  emacsclient 
+  347  emacsclient ~/.bashrc
+  348  EDITOR=emacs systemctl --user edit emacs.service --drop-in=10-after-gfx
+  349  systemctl --user enable --now emacs ; EDITOR=emacs systemctl --user edit emacs.service --drop-in=10-after-gfx ; systemctl --user restart emacs
+  350  sudoedit /etc/pacman.d/alhp-mirrorlist ; sudoedit /etc/pacman.conf
+  351  sudo pacman -Suy
+  352  sudo pacman -S cachyos-benchmarker
+  353  htop
+  354  cachyos-benchmarker 
+  355  sudoedit /etc/pacman.d/alhp-mirrorlist ; sudoedit /etc/pacman.conf
+  356  sudo pacman -Suy
+  357  paru -Syu
+  358  top
+  359  htop
+  360  btop
+  361  paru -Ss chromium
+  362  pacman -Ss wayland
+  363  paru -S extra-x86-64-v2/kwayland-integration
+  364  sudo pacman -R chromium
+  365  pacman -Qe | grep chromium
+  366  sudo pacman -R ungoogled-chromium-bin
+  367  paru -S extra-x86-64-v2/kwayland-integration
+  368  paru -S extra-x86-64-v2/chromium
+  369  top
+  370  htop
+  371  btop
+  372  btm
+  373  btm
+  374  paru -Syu
+  375  paru -R brew-git
+  376  paru -S aur/doas
+  377  sudoedit /etc/doas.conf
+  378  sudo update-alternatives --config editor
+  379  pacman -Ss update-alternatives
+  380  paru -Ss update-alternatives
+  381  emacsclient ~/.bashrc
+  382  which emacsclient
+  383  emacsclient ~/.bashrc
+  384  sudoedit /etc/doas.conf
+  385  update-alternatives
+  386  visudo
+  387  sudo visudo
+  388  emacsclient ~/.bashrc
+  389  man doasedit 
+  390  doasedit /etc/doas.conf
+  391  emacsclient ~/.bashrc
+  392  man rqbit 
+  393  screen
+  394  rqbit --help
+  395  rqbit --help | moar
+  396  exit
+  397  Ss flashrom
+  398  doas pacman -Sy extra-x86-64-v2/flashrom
+  399  paru -Syu
+  400  uname -a
+  401  pacman -Ss hardened
+  402  paru -Syu
+  403  top
+  404  top
+  405  top
+  406  top
+  407  top
+  408  top
+  409  sudo shutdown -h now
+  410  top
+  411  doas pacman -Rg cosmic
+  412  man pacman
+  413  doas pacman -R cosmic
+  414  pacman -Q
+  415  pacman -Q | rg ui
+  416  doas pacman -R ukui
+  417  paru -Syu
+  418  btop
+  419  paru -Syu
+  420  paru -Syu
+  421  top
+  422  htop
+  423  btm
+  424  btop 
+  425  paru -Syu
+  426  paru -Syu
+  427  paru -Syu
+  428  pacman -Syu
+  429  sudo pacman -Syu
+  430  paru -Syu
+  431  paru -Syu
+  432  sudo /usr/bin/bash -c rm /var/lib/pacman/db.lck
+  433  which rm
+  434  sudo /usr/bin/bash -c /usr/bin/rm /var/lib/pacman/db.lck
+  435  rm --help
+  436  sudo rm /var/lib/pacman/db.lck 
+  437  paru -Syu
+  438  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+  439  source ~/.bashrc
+  440  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+  441  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvmexport NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+  442  command -v nvm
+  443  nvm ls-remote
+  444  nvm install --lts
+  445  nvm install node
+  446  node -v
+  447  npm -v
+  448  npm install -g npm
+  449  npm i -g @adguard/hostlist-compiler
+  450  doas pacman -Sy git pass
+  451  gpg --gen-key
+  452  gpg --gen-key
+  453  pass init MJ@S3CURE.ME
+  454  git config --global credential.credentialStore gpg
+  455  wget https://github.com/git-ecosystem/git-credential-manager/releases/download/v2.6.0/gcm-linux_amd64.2.6.0.deb
+  456  doas dpkg -i gcm-linux_amd64.2.6.0.deb
+  457  wget https://github.com/git-ecosystem/git-credential-manager/releases/download/v2.6.0/gcm-linux_amd64.2.6.0.tar.gz && tar -xvf gcm-linux_amd64.2.6.0.tar.gz -C /usr/local/bin && git-credential-manager configure
+  458  wget https://github.com/git-ecosystem/git-credential-manager/releases/download/v2.6.0/gcm-linux_amd64.2.6.0.tar.gz && doas tar -xvf gcm-linux_amd64.2.6.0.tar.gz -C /usr/local/bin && git-credential-manager configure
+  459  git clone/update https://www.github.com/UnbreakableMJ/Blacklist
+  460  git clone https://www.github.com/UnbreakableMJ/Blacklist
+  461  pass init MJ@S3CURE.ME
+  462  git config --global credential.credentialStore gpg
+  463  git-credential-manager configure
+  464  git config --global user.name "UnbreakableMJ"
+  465  git config --global user.email 34196588+UnbreakableMJ@users.noreply.github.com
+  466  cd Blacklist/
+  467  ls
+  468  emacsclient Blacklist.csv
+  469  pacman -Ss frawk
+  470  cd
+  471  cargo build frawk
+  472  cargo build --help
+  473  cargo build --package frawk
+  474  rustup 
+  475  rustup update
+  476  cargo build --release frawk
+  477  git clone https://github.com/ezrosent/frawk
+  478  cd frawk
+  479  cargo build --release frawk
+  480  ls
+  481  cargo build --release
+  482  ls
+  483  tldr awk
+  484  tldr sed
+  485  cd
+  486  cd Blacklist/
+  487  ls
+  488  tldr for
+  489  ls
+  490  sort Blacklist.csv | uniq > Blacklist_sorted_unique.csv
+  491  moar Blacklist.txt
+  492  rm Blacklist.csv && mv Blacklist_sorted_unique.csv Blacklist.csv 
+  493  rm *~
+  494  git add . && git status && git commit -m "Regular update" && git push
+  495  for Filename in TempExceptions StopPr0n Malicious Blacklist; do     hostlist-compiler -c ${Filename}.json -o ${Filename}.txt; done
+  496  ls
+  497  git add . && git status && git commit -m "Regular update" && git push
+  498  pacman -Ss ntfs-3
+  499  paru -Sy extra-x86-64-v2/ntfs-3g
+  500  paru -Ss shim
+  501  cd Blacklist/
+  502  moar Blacklist.csv | rg privacybear
+  503  cd
+  504  moar ~/Blacklist/Blacklist.csv | rg goosebomb
+  505  moar ~/Blacklist/Blacklist.csv | rg phaunaitsi
+  506  cd ~/Blacklist/
+  507  echo "phaunaitsi.net" >> ~/Blacklist/Blacklist.csv
+  508  history > history5.txt
