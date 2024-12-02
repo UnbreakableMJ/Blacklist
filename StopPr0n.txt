@@ -3,9 +3,9 @@
 ! Description: Blocked sites for pornography
 ! Homepage: https://s3cure.us
 ! License: GPLv3
-! Last modified: 2023-11-19T06:23:42.151Z
+! Last modified: 2024-12-02T22:07:07.816Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.22
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 !
 ! Source: StopPr0n-NoFap.csv
