@@ -1,7 +1,7 @@
 {
     "name": "TempExceptions",
     "description": "https://github.com/UnbreakableMJ/Blacklist",
-    "license": "GPLv3",
+    "license": "GPLv2+",
     "sources": [
       {
 	"source": "TempExceptions.csv",

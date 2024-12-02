@@ -2,7 +2,7 @@
     "name": "MJ Malicious sites to block",
     "description": "Blocked sites that are malicious",
     "homepage": "https://s3cure.us",
-    "license": "GPLv3",
+    "license": "GPLv2+",
     "sources": [
       {
 	"source": "Malicious.csv",

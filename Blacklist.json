@@ -2,7 +2,7 @@
     "name": "MJ Blacklist",
     "description": "Blocked sites that are missing from popular filters",
     "homepage": "https://s3cure.us",
-    "license": "GPLv3",
+    "license": "GPLv2+",
     "sources": [
       {
 	"source": "Blacklist.csv",
