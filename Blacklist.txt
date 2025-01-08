@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are missing from popular filters
 ! Homepage: https://s3cure.us
 ! License: GPLv2+
-! Last modified: 2024-12-07T21:56:28.547Z
+! Last modified: 2025-01-08T11:20:25.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -124,6 +124,7 @@
 ||iqoprion.com^
 ||iqoption.com^
 ||ixg.llc^
+||izeeto.com^
 ||jads.co^
 ||joshbut.live^
 ||joso.gdn^
@@ -195,6 +196,7 @@
 ||revenuenetworkcpm.com^
 ||rh3msg.online^
 ||rockmedia-online.com^
+||roots.baby^
 ||rovalionsa.fun^
 ||rtserversp.fun^
 ||rukoval.com^

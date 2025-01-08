@@ -2,7 +2,7 @@
 ! Title: TempExceptions
 ! Description: https://github.com/UnbreakableMJ/Blacklist
 ! License: GPLv2+
-! Last modified: 2024-12-07T21:56:27.277Z
+! Last modified: 2025-01-08T11:20:24.240Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
