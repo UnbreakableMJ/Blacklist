@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are missing from popular filters
 ! Homepage: https://s3cure.us
 ! License: GPLv2+
-! Last modified: 2025-01-08T11:20:25.625Z
+! Last modified: 2025-01-13T09:01:54.557Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -137,7 +137,7 @@
 ||lopeinvesto.pro^
 ||lp.powerapp.download^
 ||luckybtcfaucet.website^
-||lwnbts.com/
+||lwnbts.com^
 ||mengotchsurvey.space^
 ||milblueprint.com^
 ||mimilcnf.pro^
