@@ -3,7 +3,7 @@
 ! Description: Blocked sites that are missing from popular filters
 ! Homepage: https://s3cure.us
 ! License: GPLv2+
-! Last modified: 2025-01-13T09:01:54.557Z
+! Last modified: 2025-01-13T09:05:53.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -59,6 +59,7 @@
 ||catalaglassart.com^
 ||cdnondemand.org^
 ||celeritascdn.com^
+||chargeit.baby^
 ||charmsearching.com^
 ||chatslut.net^
 ||chloe-9308.joshbut.live^
